@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdir -p /welcome/to/school; echo "to" && echo "school"
-
+mkdir welcome; mkdir to; mkdir school; echo "to"; echo "school"; echo "school"
