@@ -1,2 +1,2 @@
-#!/bin/bash
-echo 007 hello
+#!/bin/bas
+chmod o+x hello
